@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "DNC rejects protesters' requests for Palestinian speaker",
+    "description": "The activists staged a sit-in outside the convention as Democrats ignored their requests.",
+    "url": "https://www.bbc.co.uk/news/articles/c3w65xg7vy4o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dcd8/live/a3106310-60d7-11ef-9706-6165e4601505.jpg",
+    "publishedAt": "2024-08-23T02:37:14.8051146Z",
+    "content": "The demonstrations have been largely peaceful, except for a smaller, unsanctioned protest outside the Israeli consulate that led to 56 arrests. \r\n\"This has been a disastrous decision by the Democrati… [+2277 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Supreme Court limits Arizona voting without citizenship proof",
+    "description": "The ruling raises the stakes for November's election in a state where Democrats eked out a narrow victory last time.",
+    "url": "https://www.bbc.co.uk/news/articles/cj087qrp3jro",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7c9f/live/32736110-60c9-11ef-bcea-3fba61462e31.jpg",
+    "publishedAt": "2024-08-23T01:07:12.3356973Z",
+    "content": "Thursdays ruling revived a provision in the Arizona law that requires residents to provide proof of American citizenship to register as voters in the state.\r\nIt rejected, however, the law's provision… [+1882 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tim Walz’s wife clarifies their fertility treatment was not IVF",
+    "description": "Tim Walz has made his story about IVF and his family's fertility woes a hallmark of Democratic campaign rallies.",
+    "url": "https://www.bbc.co.uk/news/articles/cd73yed3p7no",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f38d/live/cf28d0c0-5f6c-11ef-96e8-8791fb176137.jpg",
+    "publishedAt": "2024-08-23T00:52:17.1645699Z",
+    "content": "The wife of US vice presidential candidate Tim Walz has clarified that she and her husband did not go through in vitro fertilization (IVF) after he repeatedly alluded to the fertility treatments on t… [+3065 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Chinese scammers used Isle of Man for 'pig-butchering' con",
+    "description": "A seaside hotel and office block were used by scam artists who tricked people out of millions of dollars.",
+    "url": "https://www.bbc.co.uk/news/articles/cz6x1ql1yelo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be8a/live/2e2ea8d0-5af2-11ef-b2d2-cdb23d5d7c5b.png",
+    "publishedAt": "2024-08-23T00:52:16.4147563Z",
+    "content": "Conservative estimates put the global annual revenues of the \"pig-butchering\" industry at more than $60bn (£46.5bn).\r\n\"This is the first such case we've seen of one of these [pig-butchering] scam ope… [+1850 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "What is a woman? Australian court rules in landmark case",
+    "description": "Roxanne Tickle has won a landmark case which questioned who can legally claim to be a woman.",
+    "url": "https://www.bbc.co.uk/news/articles/c07ev1v7r4po",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/050d/live/98e90c60-60e2-11ef-a608-7923e023d75e.png",
+    "publishedAt": "2024-08-23T00:52:15.3198634Z",
+    "content": "Roxanne Tickle was born male, but changed her gender and has been living as a woman since 2017.\r\nWhen giving evidence to the court, she said: Up until this instance, everybody has treated me as a wom… [+1945 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Canada orders freight back on track to end rail stoppage",
+    "description": "The labour minister is directing both railways to resume operations and accept final binding arbitration.",
+    "url": "https://www.bbc.co.uk/news/articles/cwy586pwk2ko",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ca68/live/5cd37240-60d0-11ef-813f-bdcfa8df6ed1.jpg",
+    "publishedAt": "2024-08-22T22:37:15.274807Z",
+    "content": "\"Workers, farmers, commuters and businesses rely on Canadas railways everyday, and will continue to do so,\" Mr McKinnon said. \"It is the governments duty and responsibility to ensure industrial peace… [+1848 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Bayesian yacht sinking: Body of Mike Lynch recovered but daughter missing",
+    "description": "UK tycoon Mike Lynch's body is recovered from the wreck of the yacht Bayesian, but his daughter Hannah is still missing.",
+    "url": "https://www.bbc.co.uk/news/articles/c3w65egn42no",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c03a/live/06a306c0-60b1-11ef-b76f-f1f593af629e.jpg",
+    "publishedAt": "2024-08-22T19:52:20.0390654Z",
+    "content": "In a statement confirming their parents' deaths, the Bloomer family described the couple as \"incredible people and an inspiration to many\".\r\nMr Thomas was described by his friend, Gareth Williams, as… [+900 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Seething Trump lashes out as DNC attacks throw him off message",
+    "description": "The biggest concern for aides is keeping him focused on the issues and off controversial personal attacks, writes Katty Kay.",
+    "url": "https://www.bbc.co.uk/news/articles/czrgp30j6z1o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c498/live/1ac3f6f0-60a7-11ef-9d73-31ccba881c4e.jpg",
+    "publishedAt": "2024-08-22T17:37:14.915461Z",
+    "content": "So the campaign strategy now seems to be at the whim of the candidate and the feedback of his crowds. That makes life difficult for his campaign advisers who repeatedly tell me their single biggest c… [+1659 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Jermaine Jenas: Presenter sacked by BBC and taken off air at The One Show and Match of the Day",
+    "description": "The former footballer is taken off air at Match of the Day and the One Show.",
+    "url": "https://www.bbc.co.uk/news/articles/cy76pdz5152o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4db6/live/703cb9c0-609b-11ef-ac2e-0dde5f4fd683.jpg",
+    "publishedAt": "2024-08-22T15:52:16.335707Z",
+    "content": "Jermaine Jenas, who presents The One Show and appears on Match of the Day for the BBC, has been sacked by the corporation following complaints about workplace conduct.\r\nThe former footballer, 41, has… [+1006 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Botswana diamonds: World's second-biggest stone found by Canadian firm Lucara",
+    "description": "A 2,492-carat stone has been unearthed, in the biggest find since the Cullinan diamond in 1905.",
+    "url": "https://www.bbc.co.uk/news/articles/c1w78rwlqvxo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3c8b/live/1afcf830-606e-11ef-aea1-e764981585c4.jpg",
+    "publishedAt": "2024-08-22T11:22:14.7403056Z",
+    "content": "The previous biggest discovery in Botswana was a 1,758-carat stone found at the same mine in 2019. \r\nBotswana is one of the world's biggest producer of diamonds, accounting for about 20% of global pr… [+874 chars]"
+    }
+    ]
+    }
+    
